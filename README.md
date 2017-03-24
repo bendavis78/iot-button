@@ -4,6 +4,7 @@ ESP8266 IOT Button
 ![Photo](http://i.imgur.com/osWEN4Z.jpg)
 
 This code is intended to be used with an ESP8266 flashed with MicroPython.
+See [here](http://imgur.com/a/e4KuA) for an album and more info on hardware.
 
 ![Schematic](http://i.imgur.com/mnZ3CU8.png)
 
